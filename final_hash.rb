@@ -1,4 +1,4 @@
-def base_hash
+def base_hash(key, hash)
 "railroads" = {}
 end
 def monopoly_with_second_tier
