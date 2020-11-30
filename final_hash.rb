@@ -1,6 +1,7 @@
-def base_hash(hash, key)
+def base_hash(base, hash)
+  hash[:railroads => {}]
 end
-def monopoly_with_second_tier(hash, key)
+def monopoly_with_second_tier(base, hash)
 end
 def monopoly_with_third_tier(hash, key)
 end
