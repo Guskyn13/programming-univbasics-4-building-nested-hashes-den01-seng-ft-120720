@@ -1,3 +1,7 @@
+def the base_hash method(hash, key)
+  hash[key] ? hash[key] += 1 : hash[key] = 1
+  hash
+end
 
 
 monopoly =  {
