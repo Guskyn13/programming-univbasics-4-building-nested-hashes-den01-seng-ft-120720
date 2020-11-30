@@ -1,6 +1,10 @@
-def the base_hash method(hash, key)
-  hash[key] ? hash[key] += 1 : hash[key] = 1
-  hash
+def base_hash(hash, key)
+end
+def monopoly_with_second_tier(hash, key)
+end
+def monopoly_with_third_tier(hash, key)
+end
+def monopoly_with_fourth_tier(hash, key)
 end
 
 
